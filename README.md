@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Sentiment Analysis
 
 In this project, I created a word cloud from sample tweet data
 provided by the Girls Who Code organization with my students at Girls Who Code.
